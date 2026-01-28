@@ -1,4 +1,7 @@
-# DoctoraliaScraper
+# doctoralia-scraper-brasil
+
+🕷️ Web scraper para coletar dados de profissionais de saúde do Doctoralia Brasil. Extrai informações como nome, cidade, especialização, avaliações, preços e telemedicina usando Scrapy. Ideal para análise de dados, pesquisa de mercado e criação de datasets.
+
 DoctoraliaScraper recursively crawls [doctoralia.com.br](https://www.doctoralia.com.br/) and extracts data from healthcare professionals listed on Doctoralia.
 
 I built DoctoraliaScraper to create a dataset of all healthcare professionals in 🇧🇷 Brazil (where I was located at the time) including price, location, specialization, and number of reviews to find the best professionals.
